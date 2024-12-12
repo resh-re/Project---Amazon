@@ -6,7 +6,7 @@ Driver who got to bars more than once a month tend to have higher acceptance rat
 Drivers who are under 30 are frequent visitors also have high acceptance rates.
 Drivers with lower income and who frquently dine at cheaper restaurants are more likely to accept oupons.
 
-Visualiztion :
+Visualization :
 
 The bar plots was generated to visulaize the acceptance rates for the three groups.
 
